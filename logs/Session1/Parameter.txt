@@ -1,0 +1,4 @@
+Parameters 
+
+tolerance 5
+neck pitch -10
