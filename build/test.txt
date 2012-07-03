@@ -1,0 +1,2 @@
+move joints randomly each joint +-2deg affecting PTV range 5cm
+move to point then explore effect of each motor on PTV
